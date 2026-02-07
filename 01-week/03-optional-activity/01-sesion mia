@@ -1,0 +1,9 @@
+Respuestas 
+1)
+•  Cuando hay datos duplicados .
+•  Cuando hay errores o inconsistencias en la información.
+•  Cuando se necesitan consultas complejas (historial, reportes, búsquedas).
+•  Cuando hay riesgo de perder datos por sobreescritura o eliminación.
+•  Cuando varias personas usan los datos al mismo tiempo.
+2)
+•	El SGBD relacional es más adecuado, ya que los datos académicos están organizados en tablas y tienen relaciones entre estudiantes, materias y notas. En cambio, el SGBD NoSQL se utiliza cuando los datos no están estructurados y requieren mayor flexibilidad.
