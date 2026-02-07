@@ -1,0 +1,6 @@
+Solución
+1.	Si no se definen correctamente las claves de la entidad Estudiante, se pueden registrar estudiantes duplicados en la base de datos. Por ejemplo, un estudiante podría ingresar con el mismo nombre y correo más de una vez y el sistema lo guardaría como si fueran personas diferentes. Esto generaría errores en las matrículas, grupos y reportes, afectando la integridad de la información.
+
+2.	Identificar las entidades antes de pasar al diagrama ER formal permite organizar mejor la información, evitar omisiones o redundancias y definir correctamente las relaciones y claves. Esto facilita la construcción de un diagrama ER más claro, coherente y fácil de implementar en la base de datos.
+
+3.	Una información crítica que aún no se ha modelado es el historial académico del estudiante, el cual incluya las notas o calificaciones obtenidas, las asignaturas cursadas, el período académico en el que se encuentra y los créditos de cada materia. Esta información es fundamental para hacer seguimiento al rendimiento académico y al avance del estudiante en su programa.
