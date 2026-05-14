@@ -34,6 +34,17 @@ El estudiante debe demostrar que entiende el problema antes de crear tablas. Por
 
 El diseño final del modelo debe ser construido y sustentado por cada equipo.
 
+### Flujo de trabajo sugerido
+
+El equipo debe trabajar en fases cortas y verificables:
+
+1. **Observación:** revisar el dominio, leer los casos de referencia y anotar dudas.
+2. **Análisis:** identificar procesos, entidades candidatas, relaciones posibles y reglas de negocio.
+3. **Diseño:** construir modelo conceptual, lógico, físico y diccionario de datos.
+4. **Implementación:** crear DDL, DML, migraciones Liquibase, Docker y rollback.
+5. **Validación:** ejecutar migraciones, rollback, cargas de datos, objetos SQL y consultas JOIN.
+6. **Entrega:** organizar evidencias en `project-docs` y dejar `project-bd` ejecutable para el profesor.
+
 ## 4. Dominios de referencia
 
 Los proyectos `sistema-hotelero` y `skin-care-store` quedan como subproyectos académicos de referencia dentro de esta sesión. Cada carpeta contiene una versión depurada con:
